@@ -1,0 +1,69 @@
+
+{
+  "contract": {
+    "contract_address": "0x3342D110D69bC282763e305c0F4B2E20A6abECFF",
+    "parties": {
+      "borrower": {
+        "name": "Cory K Washington",
+        "company": "Nells Carpool and Transportation Services C-Corporation Franchise",
+        "role": "Owner",
+        "borrower_account": "Your Deposit Account",
+        "address": "
+        0xAf227Cf67c13B54246B5220608fee8ee000Dbe53"
+      },
+      "lender": {
+        "name": "Investor",
+        "amount": 6300000000,
+        "currency": "USD",
+        "api_key": "Your API Key",
+        "address": "0xAf227Cf67c13B54246B5220608fee8ee000Dbe53"
+      }
+    },
+    "ownership": {
+      "owner": "Cory K Washington (Geo)",
+      "ownership_percentage": 100,
+      "description": "Cory K Washington (Geo) is 100% the only owner of this contract address and companies."
+    },
+    "purpose": [
+      {
+        "description": "Expand and develop an application for Nells Carpool and Transportation Services",
+        "details": "Include features for carpooling and transportation management."
+      },
+      {
+        "description": "Pay franchise fee for a nearby company",
+        "details": "Ensure proximity to enhance service offerings."
+      },
+      {
+        "description": "Relaunch fashion brand 4-Ever-Drip in Italy",
+        "details": "Focus on merchandise for all demographics including adults, youth, and pets."
+      }
+    ],
+    "financial_terms": {
+      "amount": 6300000000,
+      "milestones": {
+        "shoe_production": {
+          "target": 7,
+          "price_range": {
+            "min": 200,
+            "max": 500
+          },
+          "material": "Raw Italian material and cotton"
+        }
+      }
+    },
+    "additional_terms": {
+      "community_support": {
+        "description": "Provide transportation to and from college for founders of Etherscan",
+        "gesture": "Gift in the form of an envelope to show appreciation."
+      },
+      "business_growth": {
+        "predicted_value": "Trillion dollar mark within two years",
+        "industry": "Multi-trillion dollar industry"
+      }
+    },
+    "commitment": {
+      "intent": "Always act with integrity and care for community interests.",
+      "business_operations": "N.C.A.T.S will continue to be in high demand with ongoing production."
+    }
+  }
+}
